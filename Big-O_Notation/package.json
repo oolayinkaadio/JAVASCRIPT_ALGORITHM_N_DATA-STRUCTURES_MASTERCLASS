@@ -1,0 +1,16 @@
+{
+    "dependencies": {
+        "nodemon": "^2.0.7"
+    },
+    "name": "big-o_notation",
+    "version": "1.0.0",
+    "main": "index.js",
+    "devDependencies": {},
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
